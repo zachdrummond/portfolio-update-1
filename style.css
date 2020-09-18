@@ -1,0 +1,45 @@
+/* A body tag selector that adds the background image to each page */
+body {
+  background-image: url(./images/ignasi_pattern_s.png);
+}
+
+/* A class selector that changes the font to serif */
+.serif {
+  font-family: serif !important;
+}
+
+/* A class selector that changes the Navigation Bar's background and font color */
+.navbar-brand {
+  background-color: teal !important;
+  color: white !important;
+}
+
+/* An id selector that changes the color of the header in the card */
+#Header {
+  color: teal !important;
+}
+
+/* A class selector that sets the margin for all the images on the Portfolio Page */
+.pictures {
+  margin-right: 20px !important;
+  margin-bottom: 20px !important;
+}
+
+/* An id that allows the text to wrap around the image on the About Me Page */
+#aboutMeImg {
+  float: left !important;
+  margin-right: 20px !important;
+  margin-bottom: 5px !important;
+  max-width: 50% !important;
+}
+
+/* A tag selector that adds space between the main element and the footer */
+main {
+  margin-bottom: 100px !important;
+}
+
+/* A class selector that changes the border top of the footer */
+.border-top {
+  border-width: 10px !important;
+  border-color: teal !important;
+}
