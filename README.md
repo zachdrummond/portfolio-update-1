@@ -69,7 +69,7 @@ I tried to build this website by implementing only Bootstrap classes as much as 
 ![Screenshot](images/AboutScreenshot.png)
 
 ## Links
-* Website: https://zachdrummond.github.io/portfolio-update-1/portfolio.html
+* Website: https://zachdrummond.github.io/portfolio-update-1/
 * GitHub Repository: https://github.com/zachdrummond/portfolio-update-1
 
 ## Credits
@@ -112,8 +112,6 @@ Your updated portfolio should contain the following:
 Employers (and potential collaborators) _will_ look at your GitHub profile, so put your best face forward. If you haven't yet, now is the time to update the following in your GitHub profile:
 
 2. Biography
-
-5. Link to your portfolio
 
 8. README files. Every pinned project should contain a README file with:
 
