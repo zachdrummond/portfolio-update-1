@@ -7,6 +7,7 @@
 * Removed line above footer
 * Changed font and font-color
 * Changed card color
+* Added icons
 
 ## Table of Contents
 * [Description](#Description)
