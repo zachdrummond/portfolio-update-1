@@ -111,10 +111,6 @@ I tried to build this website by implementing only Bootstrap classes as much as 
 
 Your updated portfolio should contain the following:
 
-1. Your full name
-
-2. Links to your GitHub profile & LinkedIn page as well as your email address and phone number
-
 3. A link to a PDF of your resume
 
 4. A list of 3-5 projects. For each project, make sure you have the following:
