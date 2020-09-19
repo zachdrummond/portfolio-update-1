@@ -15,6 +15,13 @@ This is update #1 to my responsive portfolio. I designed this website in such a 
 * GitHub Repository: https://github.com/zachdrummond/portfolio-update-1
 
 ## Design Elements
+
+### Updates
+* New Design - Background Image, Colors, and Opacity
+* Added Resume, LinkedIn, GitHub, Email, and Phone Number Links and Icons
+* Added About Paragraph
+* Added Portfolio Projects with Links and Pictures
+
 ### *Bootstrap*
 * Grid System
 * Functional Navigation Bar with Button
