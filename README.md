@@ -1,14 +1,5 @@
 # My Responsive Portfolio - Update #1
 
-# Updates
-* Added LinkedIn & GitHub Links
-* Changed Navbar Headers
-* Changed background image
-* Removed line above footer
-* Changed font and font-color
-* Changed card color
-* Added icons
-
 ## Table of Contents
 * [Description](#Description)
 * [Links](#Links)
