@@ -11,13 +11,17 @@
 
 ## Table of Contents
 * [Description](#Description)
+* [Links](#Links)
 * [Design Elements](#Design-Elements)
 * [Pages Preview](#Pages-Preview)
-* [Links](#Links)
 * [Credits](#Credits)
 
 ## Description
 This is update #1 to my responsive portfolio. I designed this website in such a way that it would render well on a variety of devices and screen sizes. I hope to be able to use this website one day to showcase all of my web applications, provide a basic profile of me, and give others a place to contact me.
+
+## Links
+* Website: https://zachdrummond.github.io/portfolio-update-1/
+* GitHub Repository: https://github.com/zachdrummond/portfolio-update-1
 
 ## Design Elements
 ### *Bootstrap*
@@ -57,59 +61,20 @@ This is update #1 to my responsive portfolio. I designed this website in such a 
 * Comments
 
 ## Pages Preview
-### *Contact*
-![Screenshot](images/ContactScreenshot.png)
+### *About*
+![Screenshot](images/portfolio-About.png)
 
 ### *Portfolio*
-![Screenshot](images/PortfolioScreenshot.png)
+![Screenshot](images/portfolio-Portfolio.png)
 
-### *About*
-![Screenshot](images/AboutScreenshot.png)
-
-## Links
-* Website: https://zachdrummond.github.io/portfolio-update-1/
-* GitHub Repository: https://github.com/zachdrummond/portfolio-update-1
+### *Contact*
+![Screenshot](images/portfolio-Contact.png)
 
 ## Credits
 * Bootstrap: https://getbootstrap.com/
 
 
-
----
-
-## Requirements
-
-* Submit an updated portfolio featuring project 1.
-
-* Submit an updated resume
-
-* Submit an updated LinkedIn profile
-
-## Grading
-
-| Requirement      | Weight |
-| ---------------- | ------ |
-| Portoflio        | 30%    |
-| GitHub Profile   | 30%    |
-| Resume           | 30%    |
-| LinkedIn Profile | 10%    |
-
-## Updated Portfolio
-
-💁 Need help updating your Portfolio? Check out the [Career Services milestone resources for online presence](hhttps://sites.google.com/2u.com/careerservices-webdev/coding-milestones/milestone-polish-online-presence).
-
-Your updated portfolio should contain the following:
-
-3. A link to a PDF of your resume
-
-5. Ensure that your portfolio is free of grammar and spelling mistakes
-
-
 ## Updated GitHub Profile
-
-Employers (and potential collaborators) _will_ look at your GitHub profile, so put your best face forward. If you haven't yet, now is the time to update the following in your GitHub profile:
-
-2. Biography
 
 8. README files. Every pinned project should contain a README file with:
 
